@@ -1,0 +1,82 @@
+# Skin Contamination Presentation Track — 74편
+
+인체(피부) 표면오염도 측정의 표준과 유리성/고착성 구분 · 영어 발표 스크립트 원문 기반
+
+총 74개 슬라이드, 영·한 원문 291쌍 (교육·훈련용).
+
+## 편별 목차
+
+- S01 | Title / 표지 | 표지·개요 | 0:00 → 0:01  ·  1.0 min
+- S02 | Course structure / 이 강의의 구성 | 표지·개요 | 0:01 → 0:02  ·  1.5 min
+- S03 | The conclusion on one page / 한 장으로 보는 결론 | 표지·개요 | 0:02 → 0:04  ·  2.0 min
+- S04 | Part 0 divider / 제0부 섹션 | 제0부 | 0:04 → 0:05  ·  0.5 min
+- S05 | Monday morning / 월요일 아침 | 제0부 | 0:05 → 0:07  ·  2.5 min
+- S06 | All three are right / 세 사람이 모두 옳다 | 제0부 | 0:07 → 0:10  ·  2.5 min
+- S07 | Five questions / 다섯 개의 질문 | 제0부 | 0:10 → 0:11  ·  1.5 min
+- S08 | Part 1 divider / 제1부 섹션 | 제1부 | 0:11 → 0:12  ·  0.5 min
+- S09 | The four-step ladder / 4단 사다리 | 제1부 | 0:12 → 0:14  ·  2.0 min
+- S10 | Always divide / 효율은 항상 나눈다 | 제1부 | 0:14 → 0:15  ·  1.5 min
+- S11 | Splitting the efficiency / 효율 분해 | 제1부 | 0:15 → 0:17  ·  2.0 min
+- S12 | 2-pi versus 4-pi / 2π와 4π | 제1부 | 0:17 → 0:19  ·  1.5 min
+- S13 | Four kinds of area / 네 가지 면적 | 제1부 | 0:19 → 0:21  ·  2.0 min
+- S14 | Worked example 1 / 예제 1 | 제1부 | 0:21 → 0:23  ·  2.5 min
+- S15 | Part 2 divider / 제2부 섹션 | 제2부 | 0:23 → 0:24  ·  0.5 min
+- S16 | The ISO definitions / ISO 정의 원문 | 제2부 | 0:24 → 0:26  ·  2.5 min
+- S17 | The Venn diagram / 벤 다이어그램 | 제2부 | 0:26 → 0:28  ·  1.5 min
+- S18 | The key inequality / 핵심 부등식 | 제2부 | 0:28 → 0:29  ·  1.5 min
+- S19 | Two methods / 두 방법 | 제2부 | 0:29 → 0:31  ·  1.5 min
+- S20 | The judgement logic / 판정 논리 | 제2부 | 0:31 → 0:33  ·  2.0 min
+- S21 | Fixed is a time stage / 고착성은 시간 단계 | 제2부 | 0:33 → 0:35  ·  2.0 min
+- S22 | Part 3 divider / 제3부 섹션 | 제3부 | 0:35 → 0:35  ·  0.5 min
+- S23 | Only f differs / 차이는 f 하나뿐 | 제3부 | 0:35 → 0:38  ·  2.5 min
+- S24 | F is not a constant / 전이율은 상수가 아니다 | 제3부 | 0:38 → 0:40  ·  2.0 min
+- S25 | One factor flips the verdict / F 하나로 판정이 뒤집힌다 | 제3부 | 0:40 → 0:42  ·  2.0 min
+- S26 | Skin is not flat / 피부는 평평하지 않다 | 제3부 | 0:42 → 0:44  ·  2.0 min
+- S27 | ISO excludes skin / ISO 피부 제외 | 제3부 | 0:44 → 0:46  ·  2.0 min
+- S28 | What is actually measured / 실측량은 무엇인가 | 제3부 | 0:46 → 0:47  ·  1.5 min
+- S29 | Part 4 divider / 제4부 섹션 | 제4부 | 0:47 → 0:48  ·  0.5 min
+- S30 | Five approaches / 다섯 가지 해법 | 제4부 | 0:48 → 0:49  ·  1.5 min
+- S31 | Two US provisions / 미국의 두 조항 | 제4부 | 0:49 → 0:51  ·  2.0 min
+- S32 | The German SSK / 독일 SSK | 제4부 | 0:51 → 0:54  ·  2.5 min
+- S33 | Japan — a factor of ten / 일본 — 10배 | 제4부 | 0:54 → 0:56  ·  2.5 min
+- S34 | The Korean legal chain / 한국 법령 사슬 | 제4부 | 0:56 → 0:59  ·  2.5 min
+- S35 | The method gap / 측정방법 공백 | 제4부 | 0:59 → 1:00  ·  1.5 min
+- S36 | Part 5 divider / 제5부 섹션 | 제5부 | 1:00 → 1:01  ·  0.5 min
+- S37 | Sixty years back / 60년을 거슬러 | 제5부 | 1:01 → 1:03  ·  2.0 min
+- S38 | The derivation chain / 유도 사슬 | 제5부 | 1:03 → 1:05  ·  2.0 min
+- S39 | Part 6 divider / 제6부 섹션 | 제6부 | 1:05 → 1:05  ·  0.5 min
+- S40 | Where one centimetre came from / 1 cm의 정체 | 제6부 | 1:05 → 1:07  ·  2.0 min
+- S41 | The distance effect / 거리 효과 | 제6부 | 1:07 → 1:10  ·  2.5 min
+- S42 | Mass thickness / 질량두께 | 제6부 | 1:10 → 1:12  ·  2.0 min
+- S43 | Beta attenuation / 베타 감쇠 | 제6부 | 1:12 → 1:13  ·  1.5 min
+- S44 | The alpha budget / 알파 예산 | 제6부 | 1:13 → 1:16  ·  2.5 min
+- S45 | Sebum attenuation / 유분 감쇠 | 제6부 | 1:16 → 1:17  ·  1.5 min
+- S46 | Probe wrapping / 랩핑 | 제6부 | 1:17 → 1:19  ·  2.0 min
+- S47 | Skin source efficiency / 피부 표면효율 | 제6부 | 1:19 → 1:21  ·  1.5 min
+- S48 | Part 7 divider / 제7부 섹션 | 제7부 | 1:21 → 1:21  ·  0.5 min
+- S49 | Two thresholds / 두 개의 문턱 | 제7부 | 1:21 → 1:23  ·  2.0 min
+- S50 | The criterion we cannot measure / 기준은 있는데 잴 수가 없다 | 제7부 | 1:23 → 1:26  ·  2.5 min
+- S51 | Scanning versus static / 스캔과 정지 | 제7부 | 1:26 → 1:27  ·  1.5 min
+- S52 | Alpha cannot be demonstrated / 알파 입증 불가 | 제7부 | 1:27 → 1:29  ·  2.0 min
+- S53 | Three alternatives / 세 가지 대안 | 제7부 | 1:29 → 1:31  ·  2.0 min
+- S54 | Part 8 divider / 제8부 섹션 | 제8부 | 1:31 → 1:32  ·  0.5 min
+- S55 | The ICRU 95 correction / ICRU 95 정정 | 제8부 | 1:32 → 1:33  ·  1.5 min
+- S56 | Four orders of magnitude / 4자리 거리 | 제8부 | 1:33 → 1:35  ·  2.0 min
+- S57 | All the way to numbers / 숫자로 끝까지 | 제8부 | 1:35 → 1:37  ·  1.5 min
+- S58 | The SSK two-part test / SSK 2중 판정 | 제8부 | 1:37 → 1:39  ·  2.0 min
+- S59 | Hot particles / Hot particle | 제8부 | 1:39 → 1:40  ·  1.5 min
+- S60 | Dermal absorption / 경피흡수 | 제8부 | 1:40 → 1:42  ·  1.5 min
+- S61 | Part 9 divider / 제9부 섹션 | 제9부 | 1:42 → 1:42  ·  0.5 min
+- S62 | The bias waterfall / 편향 폭포 | 제9부 | 1:42 → 1:45  ·  2.5 min
+- S63 | Scenario accounting / 시나리오 결산 | 제9부 | 1:45 → 1:47  ·  2.0 min
+- S64 | What the real issue is / 실체는 무엇인가 | 제9부 | 1:47 → 1:48  ·  1.5 min
+- S65 | Part 10 divider / 제10부 섹션 | 제10부 | 1:48 → 1:49  ·  0.5 min
+- S66 | The decision flowchart / 판정 흐름도 | 제10부 | 1:49 → 1:51  ·  2.0 min
+- S67 | Six core provisions / 핵심 조항 여섯 개 | 제10부 | 1:51 → 1:53  ·  2.5 min
+- S68 | The checklist / 체크리스트 | 제10부 | 1:53 → 1:55  ·  1.5 min
+- S69 | An honest accounting / 정직한 결산 | 제11부 | 1:55 → 1:57  ·  2.0 min
+- S70 | The errata / 정오표 | 제11부 | 1:57 → 1:59  ·  2.0 min
+- S71 | Measurement proposals / 실측 제안 | 제11부 | 1:59 → 2:00  ·  1.5 min
+- S72 | Closing message / 최종 메시지 | 마무리 | 2:00 → 2:02  ·  1.5 min
+- S73 | Key sources / 주요 출처 | 마무리 | 2:02 → 2:03  ·  1.0 min
+- S74 | Thank you / 감사합니다 | 마무리 | 2:03 → 2:04  ·  1.0 min
